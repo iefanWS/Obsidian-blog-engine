@@ -8,7 +8,7 @@ Welcome to the Developer's Den, where code meets creativity!
 
 ## Latest Articles
 
-### 1. [JavaScript guide for beginners](Basic of JavaScript)
+### 1. [JavaScript guide for beginners](Js-guide.md)
 
    Dive into the world of Python programming and discover its versatility.
 

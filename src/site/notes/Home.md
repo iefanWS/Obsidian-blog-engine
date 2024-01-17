@@ -2,48 +2,46 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"iefan's workshop"}
 ---
 
-[[About\|About]]   [[blogs\|blogs]]
-## Cloud Solution Architect | Linux Administrator | Developer
+[[blogs\|blogs]]    [[About\|About]]
+# iefan
+*Cloud Solution Architect | Linux Administrator | Developer*
 
-### Contact Information
-- Phone No: +91 9063 310007
-- Email: realiefan@outlook.com
-- LinkedIn: iefan.mohd
-- Twitter: @iefan
-### Experience
-- **Cloud Architect | Developer**
-  - Crafted innovative cloud architectures blending open-source tech and JavaScript for scalable software solutions.
-  - Collaborative; Favored agile work environments infused with strong team dynamics.
-  - Optimized performances in the migration of intricate infrastructures to the cloud.
+Contact Information:
+- Email: info@iefan.social
+- Phone No.: 9963100027
 
-### Expertise
-- **Cloud Computing**
-  - Proficient in AWS services such as IAM, EC2, S3, RDS, Lambda, CloudFormation, etc.
-  - Skilled in scripting languages such as Python for automating AWS tasks.
-  - Familiar with security best practices on AWS such as encryption, IAM policies, VPC, etc.
-  - Experienced in database migration using AWS DMS toolset.
-- **Linux Administration**
-  - Knowledgeable in Linux operating systems such as Ubuntu, CentOS, RedHat, etc.
-  - Able to configure and manage Linux servers, services, and applications.
-  - Comfortable with Linux commands, shell scripting, and tools such as SSH, SCP, etc.
-- **Development**
-  - Fluent in programming languages such as Python, JavaScript, Java, etc.
-  - Versatile in web development frameworks such as Django, Flask, React, Angular, etc.
-  - Familiar with version control systems such as Git, SVN, etc.
+## EXPERIENCE
 
-### Education
-- **Harvard University EDX**
-  - CS50 (Computer Science)
-- **Amazon Web Services**
-  - Certified Solutions Architect – Associate
-- **NILIT Technologies Pvt Ltd**
-  - Diploma In Cloud Computing | Linux Administration
-- **University of Delhi MLC**
-  - Diploma In Economics & Business Studies
+### Cloud Architect 
+*Clients Corp | 2021 - Present*
+- Designed and implemented scalable cloud architectures for various clients.
+- Developed robust protocols to ensure system performance.
 
-### Skills
-- AWS: IAM, EC2, S3, RDS, Lambda, CloudFormation, etc.
-- Programming Languages: Python, JavaScript, Java, etc.
-- Web Development Frameworks: Django, Flask, React, Angular, etc.
-- Linux: Ubuntu, CentOS, RedHat, etc.
-- Tools: SSH, SCP, Git, SVN, etc.
+### Developer/Host Protocol 
+*Clients Corp | 2020 - Present*
+- Key implementer of contributing to the design and implementation of host protocol technologies.
+
+### System Developer 
+*Clients Corp | 2021 - Present*
+- Part of the team responsible for system development.
+
+## EDUCATION
+
+### UNIVERSITY OF DELHI, MLNC
+*Masters in Web Service Automation, Delhi University*
+
+### NIIT TECHNOLOGIES
+*Certified Cloud Computing Associate, NIIT Technologies*
+
+## KEY EXPERTISE
+
+**CLOUD COMPUTING**
+- Designing and implementing scalable, highly available, and fault-tolerant systems on AWS.
+- Auto Scaling.
+- Troubleshooting AWS S3, CloudFront, CloudWatch, and Elastic Cache.
+
+**LINUX ADMINISTRATOR**
+- Extensive experience in Linux systems administration and management.
+- Red Hat certified.
+  
+For more information about my work: [iefan.social](https://bing.com/search?q=)

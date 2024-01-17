@@ -2,13 +2,11 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"iefan's workshop"}
 ---
 
-[[blogs\|blogs]]    [[About\|About]]
-# iefan
+# iefan.social
 *Cloud Solution Architect | Linux Administrator | Developer*
-
-Contact Information:
-- Email: info@iefan.social
-- Phone No.: 9963100027
+**Contact Information:**
+- **Email:** info@iefan.social
+- **Phone No.:** 9963100027
 
 ## EXPERIENCE
 
@@ -19,7 +17,7 @@ Contact Information:
 
 ### Developer/Host Protocol 
 *Clients Corp | 2020 - Present*
-- Key implementer of contributing to the design and implementation of host protocol technologies.
+- Key implementer contributing to the design and implementation of host protocol technologies.
 
 ### System Developer 
 *Clients Corp | 2021 - Present*
@@ -43,5 +41,5 @@ Contact Information:
 **LINUX ADMINISTRATOR**
 - Extensive experience in Linux systems administration and management.
 - Red Hat certified.
-  
-For more information about my work: [iefan.social](https://bing.com/search?q=)
+
+*For more information about my work:* [iefan.social](https://iefan.social)

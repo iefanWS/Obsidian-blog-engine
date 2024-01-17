@@ -8,7 +8,8 @@ Welcome to the Developer's Den, where code meets creativity!
 
 ## Latest Articles
 
-### 1. [Exploring the Power of Python](#)
+### 1. [JavaScript guide for beginners](Basic of JavaScript)
+
    Dive into the world of Python programming and discover its versatility.
 
 ### 2. [Mastering Git and GitHub](#)
@@ -16,7 +17,6 @@ Welcome to the Developer's Den, where code meets creativity!
 
 ### 3. [Building Responsive Web Designs](#)
    Explore techniques and tools to create stunning and responsive web interfaces.
-
 ## Featured Projects
 
 ### 1. [Project X: Revolutionizing Virtual Reality](#)

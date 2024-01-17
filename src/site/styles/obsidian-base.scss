@@ -92,7 +92,7 @@ body {
     /* File layout */
     --file-line-width: 700px;
     --file-folding-offset: 24px;
-    --file-margins: var(--size-4-8);
+    --file-margins: var(--size-2-3);
     --file-header-font-size: var(--font-ui-small);
     --file-header-font-weight: 400;
     --file-header-border: var(--border-width) solid transparent;
@@ -327,7 +327,7 @@ body {
     --size-4-4: 16px;
     --size-4-5: 20px;
     --size-4-6: 24px;
-    --size-4-8: 32px;
+    --size-2-3: 32px;
     --size-4-9: 36px;
     --size-4-12: 48px;
     --size-4-16: 64px;
@@ -2411,8 +2411,8 @@ body {
   }
   .community-item-screenshot .placeholder-icon .svg-icon {
     color: var(--text-faint);
-    width: var(--size-4-8);
-    height: var(--size-4-8);
+    width: var(--size-2-3);
+    height: var(--size-2-3);
   }
   .community-modal-info-name {
     font-size: var(--h2-size);
@@ -2442,7 +2442,7 @@ body {
   .community-modal-info {
     flex: 1 1 0;
     overflow-y: auto;
-    padding: var(--size-4-8) var(--size-4-16);
+    padding: var(--size-2-3) var(--size-4-16);
     scroll-padding: var(--size-4-4);
   }
   .community-readme {
@@ -4901,7 +4901,7 @@ body {
     align-items: center;
   }
   .progress-bar-message {
-    margin-bottom: var(--size-4-8);
+    margin-bottom: var(--size-2-3);
     opacity: 1;
     color: var(--text-muted);
   }
@@ -5234,7 +5234,7 @@ body {
   .vertical-tab-content {
     overflow-y: auto;
     height: 100%;
-    padding-top: var(--size-4-8);
+    padding-top: var(--size-2-3);
     padding-bottom: var(--size-4-16);
   }
   .vertical-tab-content h2 {
@@ -7942,7 +7942,7 @@ body {
     padding: 0;
   }
   .outline {
-    padding: var(--size-4-3) var(--size-4-3) var(--size-4-8);
+    padding: var(--size-4-3) var(--size-4-3) var(--size-2-3);
   }
   .modal.mod-publish {
     height: var(--modal-height);
@@ -7958,7 +7958,7 @@ body {
   .modal.mod-publish .modal-content {
     overflow: auto;
     padding: 0 var(--size-4-4) var(--size-4-4);
-    margin-bottom: calc(var(--input-height) + var(--size-4-8));
+    margin-bottom: calc(var(--input-height) + var(--size-2-3));
     border-top: var(--border-width) solid var(--background-modifier-border);
   }
   .modal.mod-publish .modal-button-container {
@@ -8138,7 +8138,7 @@ body {
   }
   .nav-header ~ .search-input-container {
     padding: 0;
-    width: calc(100% - var(--size-4-8));
+    width: calc(100% - var(--size-2-3));
     margin: 4px auto;
   }
   .search-input-container {
@@ -8215,7 +8215,7 @@ body {
   .backlink-pane,
   .outgoing-link-pane {
     overflow-y: auto;
-    padding: var(--size-4-3) var(--size-4-3) var(--size-4-8);
+    padding: var(--size-4-3) var(--size-4-3) var(--size-2-3);
     flex: 1 0 0;
     /* #todo This should be removed and make the DOM changes instead
           Section headers for linked/unlinked mentions
@@ -8805,7 +8805,7 @@ body {
   }
   .tag-container {
     font-size: var(--font-ui-small);
-    padding: var(--size-4-3) var(--size-4-3) var(--size-4-8);
+    padding: var(--size-4-3) var(--size-4-3) var(--size-2-3);
     overflow: auto;
   }
   .tree-item-children .tag-pane-tag .tag-pane-tag-parent {
@@ -9020,7 +9020,7 @@ body {
   .recent-vaults {
     background-color: var(--background-secondary);
     border-right: 1px solid var(--background-modifier-border);
-    padding: var(--size-4-8) var(--size-4-3) var(--size-4-2) var(--size-4-3);
+    padding: var(--size-2-3) var(--size-4-3) var(--size-4-2) var(--size-4-3);
     flex-shrink: 0;
     width: 280px;
     overflow-y: hidden;
@@ -9513,7 +9513,7 @@ body {
   }
   .is-phone .vertical-tab-header-group {
     margin: 0 auto;
-    width: calc(100% - var(--size-4-8));
+    width: calc(100% - var(--size-2-3));
   }
   .is-phone .vertical-tab-header-group-title {
     padding-bottom: 1em;
@@ -10263,7 +10263,7 @@ body {
     white-space: nowrap;
     text-overflow: clip;
     width: 100%;
-    -webkit-mask-image: linear-gradient(to left, rgba(0, 0, 0, 0) var(--size-4-4), #000000 var(--size-4-8));
+    -webkit-mask-image: linear-gradient(to left, rgba(0, 0, 0, 0) var(--size-4-4), #000000 var(--size-2-3));
   }
   .mobile-navbar-actions {
     --icon-size: var(--icon-l);

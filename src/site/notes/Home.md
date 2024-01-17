@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"iefan's workshop"}
 ---
 
+[[About\|About]]     [[blogs\|blogs]]
 # iefan.social
 *Cloud Solution Architect | Linux Administrator | Developer*
 **Contact Information:**
 - **Email:** info@iefan.social
 - **Phone No.:** 9963100027
-
 ## EXPERIENCE
 
 ### Cloud Architect 

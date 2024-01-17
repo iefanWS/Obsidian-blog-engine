@@ -3251,7 +3251,7 @@ body {
   .mod-left-split .markdown-preview-view,
   .mod-right-split .markdown-source-view.mod-cm6 .cm-scroller,
   .mod-left-split .markdown-source-view.mod-cm6 .cm-scroller {
-    --file-margins: var(--size-4-5);
+    --file-margins: var(--size-2-3);
   }
   .mod-right-split .markdown-preview-view,
   .mod-left-split .markdown-preview-view,
@@ -9131,7 +9131,7 @@ body {
     --toggle-thumb-radius: 26px;
     --toggle-thumb-height: 26px;
     --toggle-thumb-width: 26px;
-    --file-margins: var(--size-4-2) var(--size-4-5);
+    --file-margins: var(--size-2-3) var(--size-2-3);
     --background-modifier-cover: rgba(0, 0, 0, 0.25);
     --background-modifier-form-field: var(--background-secondary);
     --keyboard-background: var(--background-primary);

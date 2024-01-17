@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"iefan's workshop"}
 ---
 
-
+[[About\|About]]   [[blogs\|blogs]]
 ## Cloud Solution Architect | Linux Administrator | Developer
 
 ### Contact Information
@@ -10,8 +10,6 @@
 - Email: realiefan@outlook.com
 - LinkedIn: iefan.mohd
 - Twitter: @iefan
-[[About\|About]]
-
 ### Experience
 - **Cloud Architect | Developer**
   - Crafted innovative cloud architectures blending open-source tech and JavaScript for scalable software solutions.

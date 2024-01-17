@@ -11,7 +11,7 @@ Welcome to the Developer's Den, where code meets creativity!
 ### 1. [JavaScript guide for beginners](Js-guide)
 
    Dive into the world of Python programming and discover its versatility.
-### 2. [Mastering Git and GitHub](#)
+### 2. [JavaScript 101 for beginners ](Js-101)
    Learn the essential skills for effective version control and collaboration.
 
 ### 3. [Building Responsive Web Designs](#)
